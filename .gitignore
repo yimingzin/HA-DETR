@@ -1,0 +1,12 @@
+*.sh
+outputs/
+neg1.8_pos1.5_alpha0.75.txt
+
+# PyCharm
+.idea
+
+*.pt
+*.pth
+*.onnx
+*.zip
+*.html
