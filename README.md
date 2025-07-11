@@ -12,9 +12,9 @@
 
 Here we provide the pretrained `DECO` weights.
 
-| Detector | Backbone | Epochs | AP (%) | Download                                                                                         |
-| -------- | -------- | ------ | ------ | ------------------------------------------------------------------------------------------------ |
-| HA-DETR  | R-50     | 60     | 53.5   | [deco_r50_150e.pth](https://github.com/xinghaochen/DECO/releases/download/1.0/deco_r50_150e.pth) |
+| Detector | Backbone | Epochs | AP (%) | Download                                                                                          |
+| -------- | -------- | ------ | ------ | ------------------------------------------------------------------------------------------------- |
+| HA-DETR  | R-50     | 60     | 53.5   | [hadetr_r50_60e.pth](https://github.com/xinghaochen/DECO/releases/download/1.0/deco_r50_150e.pth) |
 
 
 ## HA-DETR
