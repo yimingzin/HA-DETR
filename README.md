@@ -10,7 +10,7 @@
 
 ## Main Results
 
-Here we provide the pretrained `DECO` weights.
+Here we provide the pretrained `HA-DETR` weights.
 
 | Detector | Backbone | Epochs | AP (%) | Download                                                                                          |
 | -------- | -------- | ------ | ------ | ------------------------------------------------------------------------------------------------- |
